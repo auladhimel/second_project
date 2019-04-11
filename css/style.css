@@ -1,0 +1,84 @@
+h1{
+
+	text-align:center;
+}
+
+
+
+#p1{
+
+
+	color:red;
+}
+
+.p2
+{
+
+	color:yellow;
+	
+}
+a:link, a:visited{
+
+font-size: 50%;
+	color: white;
+	padding: 15px, 25px;
+	
+}
+a:active{
+
+
+	color:red;
+}
+a:visited{
+
+	color: blue;
+}
+a:hover{
+
+	color:red;
+}
+p{
+
+    color: deepskyblue;
+	font-size: 200%;
+	font-family: verdana;
+}
+h4{
+	border: 2px solid blue;
+	padding: 15px;
+	margin: 40px;
+	font-size: 200%;
+
+
+	}
+table,th,td{
+
+     border:2px solid black;
+     border-collapse: collapse;
+
+
+			}
+th,td{
+
+	padding: 10px;
+}
+
+th {
+     text-align: left;
+}
+table#t1
+   {
+
+     background-color:powderblue;   
+
+}
+table#t2 th 
+     {
+     background-color: black;
+     color: white;
+}
+table#t3
+     {
+     background-color: wheat;
+     color: black;
+}
